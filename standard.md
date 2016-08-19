@@ -1,12 +1,3 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Accessibility Standard</title>
-</head>
-
-<body>
 # Accessibility Standard
 
 This is a draft standard document. 
@@ -81,6 +72,3 @@ Make sure people can understand the content, and how the service works
 Make sure services can be used on different platforms and with different technologies
 * Use proper code and make sure it is valid.
 * Make sure the name, role and state of every feature can be identified.
-
-</body>
-</html>
