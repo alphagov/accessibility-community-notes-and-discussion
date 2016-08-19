@@ -2,7 +2,7 @@
 
 This is a draft standard document. 
 
-We want everyone to use our services. This is the right thing to do, and it is also the [http://www.legislation.gov.uk/ukpga/2010/15/contents](law in the UK).
+We want everyone to use our services. This is the right thing to do, and it is also the [law in the UK](http://www.legislation.gov.uk/ukpga/2010/15/contents).
 
 ## Who should think about it?
 
@@ -14,7 +14,7 @@ We all need to think about accessibility. This includes:
 
 ## How do we do it?
 
-We use the [https://www.w3.org/TR/WCAG20/](Web Content Accessibility Guidelines (WCAG) 2.0). WCAG 2.0 has three levels: Level A, Level AA, and Level AAA.
+We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). WCAG 2.0 has three levels: Level A, Level AA, and Level AAA.
 
 Our services must meet WCAG 2.0 Level AA.
 
