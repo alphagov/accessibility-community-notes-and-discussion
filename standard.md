@@ -14,7 +14,25 @@ We all need to think about accessibility. This includes:
 
 ## How do we do it?
 
-We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). WCAG 2.0 has three levels: Level A, Level AA, and Level AAA.
+We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). They are:
+
+* Guidelines that explain how to make websites accessible to disabled and older people
+* Written by accessibility specialists and disabled people at the [W3C](http://w3.org)
+
+We use WCAG 2.0 to help us make our services accessible to people with:
+* Visual impairments, including people who are blind, partially sighted, and people with conditions like being colour blind
+* Hearing impairments, including Deaf people who use sign language, and people who are hard of hearing
+* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people wwho find it difficult to control a mouse
+* Cognitive impairments, including people who are Dyslexic, on the Autistic Spectrum, and people who have learning difficulties
+
+We also use WCAG 2.0 to help us think about the different ways people use the web:
+* By changing the way a website looks in their browser
+* By using a keyboard instead of a mouse
+* By using a screen reader to present the website in synthetic speech or electronic Braille
+* By using a screen magnifier to increase the size of everything on-screen
+* By using speech recognition to use the web with voice commands and dictation
+
+WCAG 2.0 has three conformance levels: Level A, Level AA, and Level AAA.
 
 Our services must meet WCAG 2.0 Level AA.
 
