@@ -1,4 +1,4 @@
-# Technical accessibility
+# Meeting the technical accessibility requirement
 
 This is a draft standard document. 
 
