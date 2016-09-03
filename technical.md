@@ -39,13 +39,13 @@ Our services must meet WCAG 2.0 Level AA.
 
 ## What do we need to do?
 
-WCAG 2.0 has four themes. Content must be:
+WCAG 2.0 has four principles. Content must be:
 * Perceivable
 * Operable
 * Understandable
 * Robust
 
-There are things you need to do for each theme. Here is a short description of each one and the things you need to do.
+There are things you need to do for each principle. Here is a short description of each one and the things you need to do.
 
 ### Perceivable
 
