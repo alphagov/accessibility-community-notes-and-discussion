@@ -2,16 +2,7 @@
 
 This is a draft standard document. 
 
-Your service must meet the [accessibility standard](standard.md).
-
-## Who should think about it?
-
-We all need to think about accessibility. This includes:
-* Product, service and delivery managers
-* User researchers
-* Content producers
-* Designers
-* Developers and testers
+Your service must meet the technical accessibility requirement of the [accessibility standard](standard.md).
 
 ## How do we do it?
 

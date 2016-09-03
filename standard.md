@@ -4,6 +4,16 @@ This is a draft standard document.
 
 We want everyone to be able to use our services. This is the right thing to do, and it is also the [law in the UK](http://www.legislation.gov.uk/ukpga/2010/15/contents).
 
+## Who is responsible for accessibility?
+
+We are all responsible for accessibility. This includes:
+* Product, service and delivery managers
+* User researchers
+* Content producers
+* Designers
+* Developers and testers
+
+
 ## Meeting the standard
 
 Your service must meet this accessibility standard to pass the [service assessment](https://www.gov.uk/service-manual/service-assessments/check-if-you-need-a-service-assessment).
