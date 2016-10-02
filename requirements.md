@@ -23,12 +23,14 @@ There are two accessibility requirements. You will need to provide evidence that
 
 Your service must meet Level AA of the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag.php).
 
-* [Meeting the technical accessibility requirement](technical.md)
-* [Meeting the technical accessibility requirement (Alternative version)](technical-alt.md)
+* [Meeting the technical accessibility requirement](technical-requirement.md)
+* [Meeting the technical accessibility requirement (Alternative version)](technical-requirement-alt.md)
 
 ### Usable accessibility
 
 Your service must be tested with disabled and older people throughout the different [phases of design](https://www.gov.uk/service-manual/phases).
+
+* [Meeting the usable accessibility requirement](usable-requirement.md)
 
 ## Maintaining requirements
 

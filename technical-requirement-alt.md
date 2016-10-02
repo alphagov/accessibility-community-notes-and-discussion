@@ -2,7 +2,7 @@
 
 This is a draft document. 
 
-Your service must meet the technical accessibility requirement of the [accessibility standard](standard.md).
+Your service must meet the [technical accessibility requirement](standard.md).
 
 ## How do we do it?
 
