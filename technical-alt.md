@@ -1,6 +1,6 @@
 # Meeting the technical accessibility requirement
 
-This is a draft standard document. 
+This is a draft document. 
 
 Your service must meet the technical accessibility requirement of the [accessibility standard](standard.md).
 
