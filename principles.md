@@ -22,7 +22,7 @@ Accessibility is the responsibility of everyone who works on a service.
 
 Choices made by UX researchers, designers, developers and content producers can inadvertently introduce accessibility problems. If product owners, delivery managers and procurement teams do not consider accessibility throughout the production lifecycle it will affect the overall accessibility of the service.
 
-## The service is simple
+## 4. The service is simple
 
 We have done the hard work so our users don't have to.
 
