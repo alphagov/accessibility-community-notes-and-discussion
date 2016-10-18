@@ -14,7 +14,7 @@ We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/
 We use WCAG 2.0 to help us make our services accessible to people with:
 * Visual impairments, including people who are blind, partially sighted, and people with conditions like being colour blind
 * Hearing impairments, including Deaf people who use sign language, and people who are hard of hearing
-* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people wwho find it difficult to control a mouse
+* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people who find it difficult to control a mouse
 * Cognitive impairments, including people who are Dyslexic, on the Autistic Spectrum, and people who have learning difficulties
 
 We also use WCAG 2.0 to help us think about the different ways people use the web:
@@ -59,7 +59,7 @@ Make sure people can use every feature of a service.
 * Provide a "skip to content" link
 * Provide helpful titles for pages and frames
 * Make sure keyboard users can move through content in a way that makes sense
-* Use link text that makes it easy to tell where the link goes
+* Use link text that makes it easy to tell where the link goes (check the [style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for further guidance)
 * Make headings and labels helpful
 * Make it easy for keyboard users to see where they are in the content
 
