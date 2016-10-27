@@ -4,7 +4,7 @@ This is a draft document.
 
 We want everyone to be able to use our services. This is the right thing to do, and it is also the [law in the UK](http://www.legislation.gov.uk/ukpga/2010/15/contents).
 
-## Who is responsible for accessibility?
+## Responsibility
 
 We are all responsible for accessibility. This includes:
 * Product, service and delivery managers
@@ -13,17 +13,17 @@ We are all responsible for accessibility. This includes:
 * Designers
 * Developers and testers
 
-## Which services must be accessible?
+## Services
 
 All our services must be accessible. This includes services used by the public, as well as services used by people working in government.
 
 Note: a service must be accessible even if user research fails to identify disabled people as part of the target audience. People do not always self-identify as having a disability, so a failure to identify people with disabilities within a target audience does not mean they are not using the service.
 
-## Meeting the requirements
+## Requirements
 
 Your service must meet these accessibility requirements to pass the [service assessment](https://www.gov.uk/service-manual/service-assessments/check-if-you-need-a-service-assessment).
 
-There are three accessibility requirements. You will need to provide evidence that your service meets all of them.
+There are four accessibility requirements. You will need to provide evidence that your service meets all of them.
 
 ### Requirement 1: Technical accessibility
 
@@ -38,13 +38,13 @@ Your service must be tested for compatibility with common Assistive Technologies
 
 * [Meeting the AT compatibility requirement](requirement2.md)
 
-### Requirement 3: Usable accessibility
+### Requirement 3: Usability
 
 Your service must be tested with disabled and older people throughout the different [phases of design](https://www.gov.uk/service-manual/phases).
 
 * [Meeting the usable accessibility requirement](requirement3.md)
 
-## Maintaining requirements
+## Requirement 4: Maintenance
 
 Your service must continue to meet these accessibility requirements throughout its lifetime.
 

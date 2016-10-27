@@ -36,9 +36,7 @@ People who have cognitive, physical, hearing and/or visual disabilities access s
 
 People may also experience temporary disability due to environmental factors like bright sunshine making it harder to see a screen or background noise making it harder to hear, or transient conditions like a broken wrist making it impossible to use a mouse or a migraine making it harder to process content.
 
-
 ## 6. Services can be read and understood by everyone
-
 
 Services use simple language, presented in a format that is comfortable to read.
 

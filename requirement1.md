@@ -1,10 +1,10 @@
-# Meeting the technical accessibility requirement
+# Meeting Requirement 1: Technical accessibility
 
-This is a draft document. 
+This is a draft document.
 
-Your service must meet the [technical accessibility requirement](standard.md).
+Your service must meet [Requirement 1: Technical accessibility](requirements.md).
 
-## How do we do it?
+## How to meet Requirement 1
 
 We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). They are:
 

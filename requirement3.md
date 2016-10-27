@@ -1,10 +1,10 @@
-# Meeting the usable accessibility requirement
+# Meeting Requirement 3: Usability
 
 This is a draft document.
 
-Your service must meet the [usable accessibility requirement](requirements.md).
+Your service must meet [Requirement 3: Usability](requirements.md].
 
-## How do we do it?
+## How to meet Requirement 3
 
 We test our services with disabled and older people, and using different devices with assistive technologies.
 

@@ -1,10 +1,10 @@
-# Meeting the AT compatibility requirement
+# Meeting Requirement 2: AT compatibility
 
 This is a draft document.
 
-Your service must meet the [Assistive Technology (AT) compatibility accessibility requirement](requirements.md).
+Your service must meet [Requirement 2: AT compatibility](requirements.md).
 
-## How do we do it?
+## How to meet Requirement 2
 
 We test our services with different Assistive Technologies (AT).
 
