@@ -21,8 +21,6 @@ Note: a service must be accessible even if user research fails to identify disab
 
 ## Requirements
 
-Your service must meet these accessibility requirements to pass the [service assessment](https://www.gov.uk/service-manual/service-assessments/check-if-you-need-a-service-assessment).
-
 There are four accessibility requirements. You will need to provide evidence that your service meets all of them.
 
 ### Requirement 1: Technical accessibility

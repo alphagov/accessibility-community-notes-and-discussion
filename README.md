@@ -2,10 +2,13 @@
 
 This is the repository for drafting accessibility guidance for Government Digital Service (GDS). The following documents are available:
 
-* [Accessibility requirements](requirements.md)
-* [Meeting the technical accessibility requirement](requirement1.md)
-* [Meeting the technical accessibility requirement (alternate)](requirement1-alt.md)
-* [Meeting the AT compatibility requirement](requirement2.md)
-* [Meeting the usable accessibility requirement](requirement3.md)
-* [Accessibility principles](principles.md)
-* [Why our services are accessible](why.md)
+* [Principles](principles.md)
+* [Requirements](requirements.md)
+  * [Requirement 1: Technical accessibility](requirement1.md)
+    * [Requirement 2: AT compatibility](requirement2.md)
+      * [Requirement 3: Usability](requirement3.md)
+        * [Requirement 4: Maintenance](requirement4.md)
+        * [Understanding WCAG 2.0](wcag.md)
+        * [Understanding WCAG 2.0 (alternate)](wcag-alt.md)
+        * [Reasons](reasons.md)
+* [Service assessments](service-assessments.md)

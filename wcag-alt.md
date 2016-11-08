@@ -1,42 +1,35 @@
-# Meeting Requirement 1: Technical accessibility
+# Understanding WCAG 2.0
 
 This is a draft document.
 
-Your service must meet [Requirement 1: Technical accessibility](requirements.md).
+The [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) explain how to make websites accessible to disabled and older people. The guidelines are written by accessibility specialists and disabled people at the [W3C](https://w3.org/).
 
-## How to meet Requirement 1
-
-We use the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). They are:
-
-* Guidelines that explain how to make websites accessible to disabled and older people
-* Written by accessibility specialists and disabled people at the [W3C](http://w3.org)
-
-We use WCAG 2.0 to help us make our services accessible to people with:
+WCAG 2.0 helps make services accessible to people with:
 * Visual impairments, including people who are blind, partially sighted, and people with conditions like being colour blind
 * Hearing impairments, including Deaf people who use sign language, and people who are hard of hearing
-* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people who find it difficult to control a mouse
+* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people wwho find it difficult to control a mouse
 * Cognitive impairments, including people who are Dyslexic, on the Autistic Spectrum, and people who have learning difficulties
 
-We also use WCAG 2.0 to help us think about the different ways people use the web:
+WCAG 2.0 also helps us think about the different ways people use the web:
 * By changing the way a website looks in their browser
 * By using a keyboard instead of a mouse
 * By using a screen reader to present the website in synthetic speech or electronic Braille
 * By using a screen magnifier to increase the size of everything on-screen
 * By using speech recognition to use the web with voice commands and dictation
 
-WCAG 2.0 has three conformance levels: Level A, Level AA, and Level AAA.
+## WCAG architecture
 
-Our services must meet WCAG 2.0 Level AA.
-
-## What do we need to do?
-
-WCAG 2.0 has four principles. Content must be:
+WCAG 2.0 has twelve guidelines, grouped into four principles. Content must be:
 * Perceivable
 * Operable
 * Understandable
 * Robust
 
-There are things you need to do for each principle. Here is a short description of each one and the things you need to do.
+The twelve guidelines cover areas like alternative formats, keyboard accessibility, content readability, and functionality across different devices. 
+
+Each guideline has a number of Success Criteria (SC). Each SC has a conformance level: Level A, Level AA or Level AAA.
+
+According to [Requirement 1: Technical accessibility](requirement1.md) your service must conform to WCAG 2.0 Level AA as a minimum. Here is a short description of the principles, guidelines and SC your service must test for.
 
 ### Perceivable
 
@@ -82,4 +75,3 @@ Make sure people can understand the content, and how the service works.
 Make sure services can be used on different platforms and with different technologies.
 * Use proper code and make sure it is valid
 * Make sure that the purpose of every feature can be identified, and that features are uniquely labelled
-
