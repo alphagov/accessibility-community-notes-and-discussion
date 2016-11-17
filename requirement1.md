@@ -15,22 +15,26 @@ WCAG 2.0 has three conformance levels: Level A, Level AA, and Level AAA. Your se
 * [Understanding WCAG 2.0](wcag.md)
 * [Understanding WCAG 2.0 (alternate)](wcag-alt.md)
 
- ## How to meet Requirement 1
- 
- You should use a combination of automated testing tools and manual checks to test for conformance with WCAG 2.0. For best results start early and test often throughout the lifecycle of your service.
+## How to meet Requirement 1
 
-### Developer tools
+For your service to meet this requirement it must be tested against all WCAG 2.0 Level A and Level AA Success Criteria (SC). If your service fails any Level A or Level AA SC, it cannot be said to meet this requirement.
 
-TBA
 
-### Automated tools
+To be confident that your service meets this requirement and to make meeting this requirement as easy as possible, we recommend using a combination of techniques, and doing so from the moment development starts.
 
-TBA
+Use an automated tool as part of your development process. This will quickly uncover issues that you can resolve as your service develops.
 
-### QA testing
+*** link to Mehmet's blog post.
 
-TBA
+Regularly perform key manual checks as your service develops. This will build on the feedback from automated testing and uncover further issues that you can resolve as the service develops.
 
-### Audits
 
-TBA
+Conduct a full assessment of your service against all WCAG 2.0 Level A and Level AA SC. This will give you comprehensive feedback based on the complete set of WCAG SC. You must address all issues uncovered during the assessment.
+
+
+It is a good idea to do this at least twice. An assessment early in the development of your service will help uncover issues with your component library or early prototypes. An assessment later on will help you uncover issues as your service takes shape and gets closer to the finished product.
+
+If you do not have expertise within your team or department to conduct a full assessment, you can use a third party agency to perform the assessment. Note: you will need to factor this into your initial budget for the service delivery, and use one of the suppliers recommended in the Digital Marketplace.
+
+*** link to doc on conduting and getting an audit.
+

@@ -15,13 +15,15 @@ We are all responsible for accessibility. This includes:
 
 ## Services
 
-All our services must be accessible. This includes services used by the public, as well as services used by people working in government.
+All our services must be accessible. This includes services used by the public (including international audiences), as well as services used by people working in government.
+
+The prevalence of disability is higher than you might realise. Around 17% of the general public has a disability, and around 9% of civil servants.
 
 Note: a service must be accessible even if user research fails to identify disabled people as part of the target audience. People do not always self-identify as having a disability, so a failure to identify people with disabilities within a target audience does not mean they are not using the service.
 
 ## Requirements
 
-There are four accessibility requirements. You will need to provide evidence that your service meets all of them.
+There are three accessibility requirements. Your service must meet all of them by the time it becomes available to the public or to its intended audience, and must continue to do so for as long as the service remains available.
 
 ### Requirement 1: Technical accessibility
 
@@ -36,16 +38,12 @@ Your service must be tested for compatibility with common Assistive Technologies
 
 * [Meeting the AT compatibility requirement](requirement2.md)
 
-### Requirement 3: Usability
+### Requirement 3: Usable accessibility
 
-Your service must be tested with disabled and older people throughout the different [phases of design](https://www.gov.uk/service-manual/phases).
+Your service must be tested with disabled and older people to ensure they can successfully use it.
 
 * [Meeting the usable accessibility requirement](requirement3.md)
 
-## Requirement 4: Maintenance
-
-Your service must continue to meet these accessibility requirements throughout its lifetime.
-
 ## Exceptions
 
-If you think that a service (or part of a service) cannot be made accessible, please contact the [accessibility team](accessibility-team@digital.cabinet-office.gov.uk) to discuss it.
+If you think that your service (or part of your service) cannot be made accessible, please contact the [accessibility team](accessibility-team@digital.cabinet-office.gov.uk) to discuss it.
