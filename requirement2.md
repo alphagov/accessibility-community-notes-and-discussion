@@ -12,7 +12,7 @@ Note: your service must also be tested with disabled people who use AT, as part 
 
 ## How to meet Requirement 2
 
-To be confident that your service meets this requirement you should test with the following AT and browser combinations. Research conducted in 2016 identified these combinations as the most commonly used across Gov.UK.
+Test your service with the following AT and browser combinations. Research conducted in 2016 identified these combinations as the most commonly used across Gov.UK.
 
 Note: if no version numbers are indicated for the AT or browser, the latest version should be used.
 
@@ -29,11 +29,14 @@ Safari with:
 * VoiceOver (iOS9).
 * VoiceOver (MacOS Sierra).
 
+To be confident that your service meets this requirement, we recommend that all features of your website are tested for AT compatibility before being considered complete.
 
-It is not always possible to make every feature of a service work perfectly with every AT and browser combination.
+### Triaging issues
 
-If you discover an issue you should first make sure that the problem is not caused by features in your service that do not follow accessibility best practice, or by a known issue with the AT or browser in question.
+If you discover an issue with a particular AT and browser combination, you should first check that the issue is not caused by features in your service that do not follow accessibility best practice. Has the feature passed accessibility checks carried out as part of [Requirement 1: Technical accessibility](requirement1.md) for example?
 
-If you are unsure how to resolve an issue, we recommend joining the [Cross-Government Accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community) and asking for help.
+Next you should check that the issue is not a known issue with either the AT or the browser. All browsers and AT behave differently, and they all have quirks of their own, so sometimes an issue can be caused by things that are outside of your control.
 
-Features should be tested for AT compatibility before they are considered complete.
+Then consider the severity of the issue. Does it prevent someone using that AT and browser combination from completing a task? Does it affect one AT and browser combination or more than one?
+
+If you are not sure how to resolve an issue, we recommend joining the [Cross-Government Accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community), and asking for help.
