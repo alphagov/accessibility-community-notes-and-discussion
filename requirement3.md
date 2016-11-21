@@ -1,8 +1,8 @@
-# Requirement 3: Usability
+# Requirement 3: Usable accessibility
 
 This is a draft document.
 
-Your service must meet [Requirement 3: Usability](requirements.md].
+Your service must meet [Requirement 3: Usable accessibility](requirements.md).
 
 ## Meeting Requirement 3
 
