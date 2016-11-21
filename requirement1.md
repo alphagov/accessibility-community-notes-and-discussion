@@ -6,7 +6,7 @@ Your service must meet [Requirement 1: Technical accessibility](requirements.md)
 
 ## Meeting Requirement 1
 
-Test your service for conformance with the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/).
+Your service must meet Level AA of the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag.php) as a minimum.
 
 WCAG 2.0 explains how to make websites accessible to disabled and older people. The guidelines are written by accessibility specialists and disabled people at the [W3C](https://w3.org/).
 

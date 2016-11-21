@@ -6,7 +6,7 @@ Your service must meet [Requirement 2: AT compatibility](requirements.md).
 
 ## Meeting Requirement 2
 
-Test your service for compatibility with different Assistive Technologies (AT).
+Your service must be compatible with common Assistive Technologies (AT), including screen magnifiers, screen readers and speech recognition tools.
 
 Note: your service must also be tested with disabled people who use AT, as part of [Requirement 3: Usable accessibility](requirement3.md).
 

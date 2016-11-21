@@ -33,13 +33,13 @@ Your service must meet Level AA of the [Web Content Accessibility Guidelines (WC
 
 ### Requirement 2: AT compatibility
 
-Your service must be tested for compatibility with common Assistive Technologies (AT), including screen magnifiers, screen readers and speech recognition tools.
+Your service must be compatible with common Assistive Technologies (AT), including screen magnifiers, screen readers and speech recognition tools.
 
 * [Requirement 2: AT compatibility](requirement2.md)
 
 ### Requirement 3: Usable accessibility
 
-Your service must be tested with disabled and older people to ensure they can successfully use it.
+Your service must be usable by disabled and older people, including people who use AT.
 
 * [Requirement 3: Usable accessibility](requirement3.md)
 
