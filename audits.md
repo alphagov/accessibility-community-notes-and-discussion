@@ -10,23 +10,26 @@ This is a draft document.
 * Before service is available to intended audience for first time
 * Due dilligence when commissioning a third party development agency
 
-## Parts of an audit
+## Getting an audit
 
-* Conformance (assessment against WCAG)
-* Compatibility (AT testing)
-* Expert review (with panel of disabled people)
-* Regression testing/retesting
+* Using the digital marketplace
+* Writing a brief/requirements
+* Picking a supplier
+
+## What to ask for
+
+* Explanation of different audit components (conformance, compatibility, expert review, retest)
+* Description of different deliverables (reports, spreadsheets, tickets/user stories)
+* Asking for example deliverables
+* How to choose the bits that are right for the service
 
 ## What to audit
 
 * Choosing a sample (templates, pages, service steps etc.)
 * Collaborating with audit provider
 
-## Audit deliverables
+## Using the audit results
 
-* Reports
-* Results spreadsheets
-* Tickets/user stories
-* Asking for example deliverables to help with deciding
-
+* Using the deliverables
+* Getting a retest
 
