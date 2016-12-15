@@ -81,7 +81,7 @@ Your service must be navigable and usable no matter how someone uses it (without
 * 2.4.6 Provide headings and form labels that will help people find content and complete tasks
 * 2.4.7 Make sure that people using a keyboard to navigate can always see where they are on a page
 
-## [Principle 1 Understandable](https://www.w3.org/TR/WCAG20/#understandable)
+## [Principle 3 Understandable](https://www.w3.org/TR/WCAG20/#understandable)
 
 Your service must make information understandable, and make it easy for people to understand how to complete tasks.
 
