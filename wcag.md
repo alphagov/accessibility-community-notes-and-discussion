@@ -95,7 +95,7 @@ see also [flashing](https://pages.18f.gov/accessibility/flashing/)
 * 2.4.6 Provide headings and form labels that will help people find content and complete tasks
 * 2.4.7 Make sure that people using a keyboard to navigate can always see where they are on a page
 
-see also [page titles](https://pages.18f.gov/accessibility/pagetitles/), [links and repetitive content](https://pages.18f.gov/accessibility/links/) and [keyboard]((https://pages.18f.gov/accessibility/keyboard/)
+see also [page titles](https://pages.18f.gov/accessibility/pagetitles/), [links and repetitive content](https://pages.18f.gov/accessibility/links/) and [keyboard](https://pages.18f.gov/accessibility/keyboard/)
 
 ## [Principle 3 Understandable](https://www.w3.org/TR/WCAG20/#understandable)
 
@@ -104,6 +104,8 @@ Your service must make information understandable, and make it easy for people t
 ### [Guideline 3.1 Make text readable and understandable](https://www.w3.org/TR/WCAG20/#meaning)
 * 3.1.1 Identify the language that the content is written in
 * 3.1.2 Identify any changes in the default written language of the content
+
+see also [language](https://pages.18f.gov/accessibility/properties/)
 
 ### [Guideline 3.2 Make things appear and behave in consistent ways](https://www.w3.org/TR/WCAG20/#consistent-behavior)
 * 3.2.1 Do not cause surprising things to happen (like opening a new page), when someone focuses on something
@@ -124,3 +126,5 @@ Your service must work with different browsers and assistive technologies in use
 ### [Guideline 4.1 Make content compatible with different browsers and assistive technologies](https://www.w3.org/TR/WCAG20/#ensure-compat)
 * 4.1.1 Make sure the code of each page does not contain errors that will have a negative impact on the way browsers and assistive technologies work together
 * 4.1.2 Make sure the code of each page enables assistive technologies to discover the purpose of every feature, the way that feature is identified, and the state it is currently in
+
+see also [frames](https://pages.18f.gov/accessibility/frames/) and [plugins](https://pages.18f.gov/accessibility/plugins/)
