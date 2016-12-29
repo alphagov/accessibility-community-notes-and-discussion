@@ -1,6 +1,6 @@
 # Understanding WCAG 2.0
 
-This is a draft document.
+This is a draft document. Links to pages within the [18f Accessibility checklist](https://pages.18f.gov/accessibility/checklist/) provide additional help in testing/
 
 The [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) explain how to make websites accessible to disabled and older people. The guidelines are written by accessibility specialists and disabled people at the [W3C](https://w3.org/).
 
