@@ -1,6 +1,6 @@
 # Understanding WCAG 2.0
 
-This is a draft document.
+This is a draft document. Links to the [18f Accessibility checklist]https://pages.18f.gov/accessibility/checklist/ provide additional help for testing. 
 
 The [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) explain how to make websites accessible to disabled and older people. The guidelines are written by accessibility specialists and disabled people at the [W3C](https://w3.org/).
 
@@ -12,7 +12,7 @@ WCAG 2.0 helps make services accessible to people with:
 
 WCAG 2.0 also helps us think about the different ways people use the web:
 * By changing the way a website looks in their browser
-* By using a keyboard instead of a mouse
+* By using a [keyboard](https://pages.18f.gov/accessibility/keyboard/) instead of a mouse
 * By using a screen reader to present the website in synthetic speech or electronic Braille
 * By using a screen magnifier to increase the size of everything on-screen
 * By using speech recognition to use the web with voice commands and dictation
@@ -34,26 +34,26 @@ According to [Requirement 1: Technical accessibility](requirement1.md) your serv
 ### Perceivable
 
 Make sure people can recognise all information and content.
-* Provide text alternatives for images
+* Provide text alternatives for [images](https://pages.18f.gov/accessibility/images/)
 * Provide transcripts for audio and video
-* Provide realtime captions for video
+* Provide realtime captions for [video](https://pages.18f.gov/accessibility/multimedia/)
 * Make sure content is structured in a way that makes sense when it is read.
 * Use the proper mark-up for every feature
-* Use text colours that show up clearly against the background colour
+* Use text [colours](https://pages.18f.gov/accessibility/color/) that show up clearly against the background colour
 * Make sure every feature can be used when text size is increased by 200%
 * Do not use images of text
 
 ### Operable
 
 Make sure people can use every feature of a service.
-* Make sure everything works with a keyboard
+* Make sure everything works with a [keyboard](https://pages.18f.gov/accessibility/keyboard/)
 * Let people play/pause/stop moving content
-* Do not use blinking or flashing content
-* Provide a "skip to content" link
+* Do not use blinking or [flashing](https://pages.18f.gov/accessibility/flashing/) content
+* Provide a ["skip to content" link](https://pages.18f.gov/accessibility/links/)
 * Provide helpful titles for pages and frames
-* Make sure keyboard users can move through content in a way that makes sense
-* Use link text that makes it easy to tell where the link goes (check the [style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for further guidance)
-* Make headings and labels helpful
+* Make sure [keyboard users can move through content in a way that makes sense](https://pages.18f.gov/accessibility/keyboard/)
+* Use [link text that makes it easy to tell where the link goes](https://pages.18f.gov/accessibility/links/) (check the [style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for further guidance)
+* Make [headings](https://pages.18f.gov/accessibility/headings/) and labels helpful
 * Make it easy for keyboard users to see where they are in the content
 
 ### Understandable
@@ -63,7 +63,7 @@ Make sure people can understand the content, and how the service works.
 * Keep sentences short
 * Do not use words and phrases that people will not recognise, or provide an explanation if you cannot avoid it
 * Explain abbreviations and acronyms, unless you are very sure people will recognise them
-* Identify the language used for written content, and indicate when the written language changes
+* Identify the [language](https://pages.18f.gov/accessibility/properties/) used for written content, and indicate when the written language changes
 * Make sure features look and behave in the same way every time they are used
 * Do not make big changes to content without people being aware of it
 * Provide instructions to help people use unfamiliar features
