@@ -7,12 +7,12 @@ The [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG
 WCAG 2.0 helps make services accessible to people with:
 * Visual impairments, including people who are blind, partially sighted, and people with conditions like being colour blind
 * Hearing impairments, including Deaf people who use sign language, and people who are hard of hearing
-* Mobility impairments, including people with restricted movement that stops them using a mouse or keyboard, and people wwho find it difficult to control a mouse
+* Mobility impairments, including people with restricted movement that stops them using a mouse or [keyboard](https://pages.18f.gov/accessibility/keyboard/), and people who find it difficult to control a mouse
 * Cognitive impairments, including people who are Dyslexic, on the Autistic Spectrum, and people who have learning difficulties
 
 WCAG 2.0 also helps us think about the different ways people use the web:
 * By changing the way a website looks in their browser
-* By using a keyboard instead of a mouse
+* By using a [keyboard](https://pages.18f.gov/accessibility/keyboard/) instead of a mouse
 * By using a screen reader to present the website in synthetic speech or electronic Braille
 * By using a screen magnifier to increase the size of everything on-screen
 * By using speech recognition to use the web with voice commands and dictation
@@ -25,7 +25,7 @@ WCAG 2.0 has twelve guidelines, grouped into four principles. Content must be:
 * Understandable
 * Robust
 
-The twelve guidelines cover areas like alternative formats, keyboard accessibility, content readability, and functionality across different devices. 
+The twelve guidelines cover areas like alternative formats, [keyboard accessibility](https://pages.18f.gov/accessibility/keyboard/), content readability, and functionality across different devices. 
 
 Each guideline has a number of Success Criteria (SC). Each SC has a conformance level: Level A, Level AA or Level AAA.
 
@@ -38,6 +38,8 @@ Your service must present information in ways people can recognise and use, no m
 #### [Guideline 1.1 Provide text alternatives](https://www.w3.org/TR/WCAG20/#text-equiv)
 * 1.1.1 Provide a text description for images, and make sure the description serves the same purpose as the image
 
+see also [images](https://pages.18f.gov/accessibility/images/)
+
 #### [Guideline 1.2 Provide alternatives for time-based media](https://www.w3.org/TR/WCAG20/#media-equiv)
 * 1.2.1 Provide a text description for video content that has no audio, or a transcript for audio content that has no video, and make sure the description and transcript serve the same purpose as the original content
 * 1.2.2 Provide real-time captions for video content that has audio, and make sure the captions include all dialogue and important sound-effects
@@ -45,10 +47,17 @@ Your service must present information in ways people can recognise and use, no m
 * 1.2.4 Provide real-time captions for live video content that has audio, and make sure the captions include all dialogue and important sound-effects
 * 1.2.5 Provide audio description for video content, and make sure the description includes all important activity that takes place on-screen
 
+see also [multimedia](https://pages.18f.gov/accessibility/multimedia/)
+
 #### [Guideline 1.3 Create content that can be presented in different ways](https://www.w3.org/TR/WCAG20/#content-structure-separation)
 * 1.3.1 Use elements like headings, lists and tables to properly convey the structure of content
 * 1.3.2 Make sure content can always be read in a logical order even when stylesheets are disabled
 * 1.3.3 Do not use colour, size, shape, sound or location as the only way to convey instructions
+
+see also [headings](https://pages.18f.gov/accessibility/headings/)
+see also [tables](https://pages.18f.gov/accessibility/tables/)
+see also [css dependence](https://pages.18f.gov/accessibility/css/)
+see also [colour](https://pages.18f.gov/accessibility/color/)
 
 ### [Guideline 1.4 Make content easy for people to see and hear](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)
 * 1.4.1 Do not use colour as the only way to convey information of any kind
@@ -56,6 +65,8 @@ Your service must present information in ways people can recognise and use, no m
 * 1.4.3 Make sure that the colour of text contrasts clearly against its background colour
 * 1.4.4 Make sure it is possible to complete all tasks when text is resized up to 200% in the browser
 * 1.4.5 Do not use images that contain text
+
+see also [colour](https://pages.18f.gov/accessibility/color/)
 
 ## [Principle 2 Operable](https://www.w3.org/TR/WCAG20/#operable)
 
@@ -65,9 +76,13 @@ Your service must be navigable and usable no matter how someone uses it (without
 * 2.1.1 Make sure every task can be completed without a mouse
 * 2.1.2 Make sure that keyboard users don't get stuck when navigating through content
 
+see also [keyboard](https://pages.18f.gov/accessibility/keyboard/)
+
 ### [Guideline 2.2 Give people enough time to read and use content](https://www.w3.org/TR/WCAG20/#time-limits)
 * 2.2.1 Give people a way to turn off or extend time limits
 * 2.2.2 Give people a way to stop content that updates frequently, blinks or scrolls automatically
+
+see also [timeouts](https://pages.18f.gov/accessibility/timeouts/)
 
 ### [Guideline 2.3 Do not cause seizures](https://www.w3.org/TR/WCAG20/#seizure)
 * 2.3.1 Do not use content that flashes more than three times a second
