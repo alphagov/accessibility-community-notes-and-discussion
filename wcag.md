@@ -54,10 +54,7 @@ see also [multimedia](https://pages.18f.gov/accessibility/multimedia/)
 * 1.3.2 Make sure content can always be read in a logical order even when stylesheets are disabled
 * 1.3.3 Do not use colour, size, shape, sound or location as the only way to convey instructions
 
-see also [headings](https://pages.18f.gov/accessibility/headings/)
-see also [tables](https://pages.18f.gov/accessibility/tables/)
-see also [css dependence](https://pages.18f.gov/accessibility/css/)
-see also [colour](https://pages.18f.gov/accessibility/color/)
+see also [headings](https://pages.18f.gov/accessibility/headings/), [tables](https://pages.18f.gov/accessibility/tables/), [css dependence](https://pages.18f.gov/accessibility/css/) and [colour](https://pages.18f.gov/accessibility/color/)
 
 ### [Guideline 1.4 Make content easy for people to see and hear](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)
 * 1.4.1 Do not use colour as the only way to convey information of any kind
