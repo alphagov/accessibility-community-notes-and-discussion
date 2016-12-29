@@ -84,6 +84,8 @@ see also [timeouts](https://pages.18f.gov/accessibility/timeouts/)
 ### [Guideline 2.3 Do not cause seizures](https://www.w3.org/TR/WCAG20/#seizure)
 * 2.3.1 Do not use content that flashes more than three times a second
 
+see also [flashing](https://pages.18f.gov/accessibility/flashing/)
+
 ### [Guideline 2.4 Provide ways to help people navigate and find content](https://www.w3.org/TR/WCAG20/#navigation-mechanisms)
 * 2.4.1 Give people who do not use a mouse a way to move to the start of the main content
 * 2.4.2 Give every page a unique and helpful title that indicates the purpose of the page
@@ -92,6 +94,8 @@ see also [timeouts](https://pages.18f.gov/accessibility/timeouts/)
 * 2.4.5 Unless a page is a step in a process, give people different ways of finding content (like searching or browsing links)
 * 2.4.6 Provide headings and form labels that will help people find content and complete tasks
 * 2.4.7 Make sure that people using a keyboard to navigate can always see where they are on a page
+
+see also [page titles](https://pages.18f.gov/accessibility/pagetitles/), [links and repetitive content](https://pages.18f.gov/accessibility/links/) and [keyboard]((https://pages.18f.gov/accessibility/keyboard/)
 
 ## [Principle 3 Understandable](https://www.w3.org/TR/WCAG20/#understandable)
 
