@@ -10,7 +10,7 @@ An accessibility audit is an assessment of a website or product against a recogn
 An accessibility audit does two things:
 
 1. First it identifies accessibility issues with your service;
-2. Then it confirms that you have resolved those issues.
+2. Then it confirms that you have resolved those issues that were identified.
 
 Use a third party agency that specialises in accessibility to audit your service. This will ensure that the accessibility audit is comprehensive and independent.
 
@@ -86,8 +86,8 @@ You will need to write a project brief. The brief should include the following d
 * The name of your service and a brief description of its purpose;
 * The approximate number of design patterns, unique page types or unique types of content you want tested for conformance and AT compatibility;
 * The user journeys (including number of steps) you want put through an expert review;
-* The types of deliverables you want to receive;
-* The Guidelines you want your service audited against (WCAG 2.0 Level A and Level AA).
+* The Guidelines you want your service audited against (WCAG 2.0 Level A and Level AA);
+* The types of deliverables you want to receive.
 
 ### Picking a supplier
 
@@ -115,11 +115,12 @@ This is a written (often very long) document. It describes different issues, exp
 
 This Is when the agency creates individual issue tracking tickets, either in your preferred issue tracker or via one of their own. Tickets describe individual issues and provide solutions (including code examples).
 
+Whether you receive a report or a set of tickets, issues should be prioritised to help you resolve them.
+
 An accessibility audit may provide one or more of these deliverables. They are not mutually exclusive, and often compliment each other.
 
 ## Using the audit results
 
-* Using the deliverables
-* Getting a retest
+When you receive a report or set of tickets, they should be prioritised to help you tackle those that have the greatest impact on users. Issues that prevent users from using your service or which place serious barriers in their way should be resolved as the highest priority.
 
-
+Your supplier will be able to provide further advice on prioritisation, but as a general plan you should tackle all Level A issues and then all Level AA issues that have been identified. WCAG 2.0 Level A SC are intended to cover the most basic aspects of accessibility, and Level AA SC build from this foundation.
