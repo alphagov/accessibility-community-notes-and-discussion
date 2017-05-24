@@ -75,9 +75,7 @@ One of the things to look out for in the agency you choose, is whether they can 
 
 ## Getting an audit
 
-You should use the Digital Marketplace to find an agency to carry out your accessibility audits.
-
-Editor's note: does anyone know how the Digital marketplace works? Would be good to include some umore useful info here.
+You can use the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/) to find an agency to carry out your accessibility audits.
 
 ### Writing a brief
 
